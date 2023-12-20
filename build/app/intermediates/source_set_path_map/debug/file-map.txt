@@ -1,0 +1,12 @@
+com.example.chess.app-jetified-window-java-1.0.0-beta04-0 /Users/ardafikretazakli/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.chess.app-core-1.6.0-1 /Users/ardafikretazakli/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.chess.app-jetified-annotation-experimental-1.1.0-2 /Users/ardafikretazakli/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.chess.app-jetified-window-1.0.0-beta04-3 /Users/ardafikretazakli/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.chess.app-debug-4 /Users/ardafikretazakli/StudioProjects/chess/android/app/src/debug/res
+com.example.chess.app-main-5 /Users/ardafikretazakli/StudioProjects/chess/android/app/src/main/res
+com.example.chess.app-pngs-6 /Users/ardafikretazakli/StudioProjects/chess/build/app/generated/res/pngs/debug
+com.example.chess.app-resValues-7 /Users/ardafikretazakli/StudioProjects/chess/build/app/generated/res/resValues/debug
+com.example.chess.app-rs-8 /Users/ardafikretazakli/StudioProjects/chess/build/app/generated/res/rs/debug
+com.example.chess.app-mergeDebugResources-9 /Users/ardafikretazakli/StudioProjects/chess/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.chess.app-mergeDebugResources-10 /Users/ardafikretazakli/StudioProjects/chess/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.chess.app-merged_res-11 /Users/ardafikretazakli/StudioProjects/chess/build/app/intermediates/merged_res/debug
